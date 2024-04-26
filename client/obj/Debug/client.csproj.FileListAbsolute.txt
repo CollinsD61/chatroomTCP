@@ -1,0 +1,10 @@
+D:\Workspace\C#\chatroom\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\Workspace\C#\chatroom\client\obj\Debug\client.Client.resources
+D:\Workspace\C#\chatroom\client\obj\Debug\client.Properties.Resources.resources
+D:\Workspace\C#\chatroom\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\Workspace\C#\chatroom\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\chatroom\client\bin\Debug\client.exe.config
+D:\Workspace\C#\chatroom\client\bin\Debug\client.exe
+D:\Workspace\C#\chatroom\client\bin\Debug\client.pdb
+D:\Workspace\C#\chatroom\client\obj\Debug\client.exe
+D:\Workspace\C#\chatroom\client\obj\Debug\client.pdb
